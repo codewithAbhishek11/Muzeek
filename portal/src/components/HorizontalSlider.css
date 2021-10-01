@@ -1,0 +1,35 @@
+.title{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+    font-family: 'Pacifico', cursive;
+}
+
+item-title{
+    font-size: 85%;
+}
+
+.item-container{
+    float: left;
+    align-items: left;
+    width: 100px;
+    height: 100px;
+    
+    text-align: center;
+}
+.clear{
+    clear: both;
+}
+
+.description{
+    font-weight: 100;
+    line-height: 20px;
+    color: aliceblue;
+    font-size: 15px;
+    margin-left: 30px;
+    text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+

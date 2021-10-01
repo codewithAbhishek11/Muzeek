@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Pacifico&display=swap');
+
+#logo{
+  
+    font-family: 'Pacifico', cursive;
+    font-weight: 1;
+    font-size: 30px;
+    padding-right: 30px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    
+}
+.customize{
+    background-color: #e64398;
+   
+   
+}
+/*@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Rock+Salt&display=swap');
+
+#logo{
+    font-family: 'Handlee', cursive;
+
+}*/
+
+
+.routes{
+    font-size: 22px;
+    margin-right: 15px;
+    
+}
+
+.routes:hover{
+    background-color: aquamarine;
+    color: black;
+    box-shadow: 5px 5px 10px greenyellow;
+}
